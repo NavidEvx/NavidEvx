@@ -1,4 +1,4 @@
-# Hi there, I'm Edward Melvin! 👋
+# Hi there, I'm Navid! 👋
 
 ## Backend Developer | Laravel & Nuxt.js
 
@@ -8,7 +8,7 @@ I'm a backend developer specializing in Laravel, currently working on an e-comme
 
 - **Backend:** Laravel  
 - **Frontend:** Nuxt.js  
-- **Containerization:** Docker (Not using currently)  
+- **Containerization:** Docker
 
 ### 📫 Connect with Me
 
