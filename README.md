@@ -12,6 +12,6 @@ I'm a backend developer specializing in Laravel, currently working on an e-comme
 
 ### 📫 Connect with Me
 
-- **GitHub:** [EdwardMelvin](https://github.com/EdwardMelvin)  
+- **GitHub:** [EdwardMelvin](https://github.com/NavidEvx)  
 - **LinkedIn:** [quicker-navid](https://www.linkedin.com/in/quicker-navid/)  
 - **Telegram:** [ThisIsQuicker](https://t.me/ThisIsQuicker)  
