@@ -2,7 +2,7 @@
 
 ## Backend Developer | Laravel & Nuxt.js
 
-I'm a backend developer specializing in Laravel, currently working on an e-commerce project.
+I'm a Backend Developer specializing in Laravel, currently working on an e-commerce project.
 
 ### 🛠️ Tech Stack
 
