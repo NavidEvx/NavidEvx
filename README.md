@@ -1,4 +1,7 @@
 # Hi there, I'm Navid! 👋
+<div align="center">
+  <img src="https://dz2cdn1.dzone.com/storage/temp/13990138-code-21.gif"/>
+</div>
 
 <h2>Backend Developer | Laravel & Nuxt.js</h2>
 Back-End Developer with 4+ years of experience in Laravel and PHP, specializing in scalable web applications, database optimization, and API development. Skilled in Vue.js, Nuxt.js, and marketplace platforms, with a focus on high-performance systems and efficient architecture.
