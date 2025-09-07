@@ -15,6 +15,6 @@ Back-End Developer with 4+ years of experience in Laravel and PHP, specializing 
 
 <h2> Connect with Me </h2>
 
-- **GitHub:** [EdwardMelvin](https://github.com/NavidEvx)  
+- **GitHub:** [NavidEvx](https://github.com/NavidEvx)  
 - **LinkedIn:** [quicker-navid](https://www.linkedin.com/in/quicker-navid/)  
 - **Telegram:** [ThisIsQuicker](https://t.me/ThisIsQuicker)  
