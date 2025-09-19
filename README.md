@@ -8,7 +8,7 @@ Back-End Developer with 4+ years of experience in Laravel and PHP, specializing 
 
 <h2> Skills </h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,docker&perline=10" />
+<img src="https://skillicons.dev/icons?i=cs,php,laravel,mysql,postgres,docker&perline=10" />
 <img src="https://skillicons.dev/icons?i=js,vue,nuxtjs,tailwind,bootstrap&perline=10" />
 <img src="https://skillicons.dev/icons?i=git,github,de&perline=10" />
 </div>
